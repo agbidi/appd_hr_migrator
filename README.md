@@ -33,5 +33,5 @@ appd_dst_api_password='' # appd api password for basic authentication. Set as em
 appd_dst_proxy='http://proxy.url:80'
 
 appd_application_names='.*' # app names regex<br>
-output_dir='./output'<br>
+output_dir='./output' # output dir <br>
 overwrite='true' # overwrite health rules on import
